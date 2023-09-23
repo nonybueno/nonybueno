@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://thaninpong-non.vercel.app/](https://thaninpong-non.vercel.app/home)
+- 👨‍💻 All of my projects are available at [https://thaninpong-non.vercel.app](https://thaninpong-non.vercel.app)
 
 - 💬 Ask me about **vue**
 
